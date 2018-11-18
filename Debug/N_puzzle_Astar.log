@@ -1,0 +1,3 @@
+﻿  N_puzzle_Astar.cpp
+d:\code\github\n_puzzle_astar\n_puzzle_astar\n_puzzle_astar.cpp(379): warning C4715: “readFile”: 不是所有的控件路径都返回值
+  N_puzzle_Astar.vcxproj -> D:\Code\GitHub\N_puzzle_Astar\Debug\N_puzzle_Astar.exe
